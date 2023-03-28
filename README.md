@@ -5,6 +5,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorLoureiro&show_icons=true&theme=synthwave)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorLoureiro&hide_progress=true)](https://github.com/IgorLoureiro/github-readme-stats)      
+                         
 ### Atualmente estudando e me especializando nestas linguagens:
 
 <div style="display: inline_block"><br/>
