@@ -15,5 +15,3 @@
 </div><br/>
 
 Cursando Ciência da Computação durante a noite e estudando programação durante o dia 🔥
-
-![snake gif](https://github.com/IgorLoureiro/IgorLoureiro/blob/output/github-contribution-grid-snake.svg)
